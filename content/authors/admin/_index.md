@@ -12,7 +12,7 @@ role: Postdoc
 organizations:
 - name: Neural Dynamics of Visual Cognition Lab
   url: https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html
-- name: Free University Berlin
+- name: Freie Universität Berlin
   url: https://www.fu-berlin.de/
 
 # Short bio (displayed in user profile at end of posts)
@@ -84,6 +84,10 @@ highlight_name: false
 
 I am a Postdoc in the Neural Dynamics of Visual Cognition Lab, led by Dr. Radoslaw M. Cichy. 
 
-In my current project I am using multivariate pattern analysis to investigate the neural dynamics underlying word representations during listening and Braille reading in congenitally blind individuals.
+I am generally interested in the plasticity of the spatio-temporal dynamics underlying visual processing. Therefore, I am using different types of brain reorganisation, i.e., due to congenital blindness or healthy aging, as a window into exploring the plasticity of these representations.
+
+In my first project, I am addressing how the lack of input to the visual cortex affects object representations. More specifically, I am using multivariate pattern analysis on fMRI data to investigate the neural dynamics underlying word representations during listening and Braille reading in congenitally blind individuals.
+
+In my second project, I am investigating how object representations change over the life span. In cooperation with Douglas Garrett at the Max Planck Institute for Lifespan Development Berlin, I am combining fMRI, EEG and behavioural data in order to determine where and when in the visual processing hierarchy potential age-related changes in object representations occur..
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
