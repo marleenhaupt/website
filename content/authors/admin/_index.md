@@ -88,6 +88,6 @@ I am generally interested in the plasticity of the spatio-temporal dynamics unde
 
 In my first project, I am addressing how the lack of input to the visual cortex affects object representations. More specifically, I am using multivariate pattern analysis on fMRI data to investigate the neural dynamics underlying word representations during listening and Braille reading in congenitally blind individuals.
 
-In my second project, I am investigating how object representations change over the life span. In cooperation with Douglas Garrett at the Max Planck Institute for Lifespan Development Berlin, I am combining fMRI, EEG and behavioural data in order to determine where and when in the visual processing hierarchy potential age-related changes in object representations occur..
+In my second project, I am investigating how object representations change over the life span. In cooperation with Douglas Garrett at the Max Planck Institute for Lifespan Development Berlin, I am combining fMRI, EEG and behavioural data in order to determine where and when in the visual processing hierarchy potential age-related changes in object representations occur.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
