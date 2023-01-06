@@ -22,11 +22,11 @@ bio: Postdoc at Neural Dynamics of Visual Cognition Lab in Berlin
 interests:
 - Cognitive Neuroscience
 - Vision
-- Attention
 - Aging
-- fMRI
+- Computational methods
 - Multivariate Pattern Analysis
 - Open Science
+- fMRI
 
 # Education to show in About widget
 education:
